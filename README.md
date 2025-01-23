@@ -19,10 +19,10 @@
 ## 🖼️ Screenshots  
 
 ### Website Blocking Interface  
-<img src="./icons/readme/app.png" width="40%" alt="jBlocker interface showing website input and list of blocked sites">  
+<img src="./icons/readme/app.png" width="30%" alt="jBlocker interface showing website input and list of blocked sites">  
 
 ### Time Schedule Configuration  
-<img src="./icons/readme/time.png" width="40%" alt="jBlocker time picker interface with start/end time settings">  
+<img src="./icons/readme/time.png" width="30%" alt="jBlocker time picker interface with start/end time settings">  
 
 ---
 
