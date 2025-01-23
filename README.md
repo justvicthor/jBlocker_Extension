@@ -19,10 +19,10 @@
 ## 🖼️ Screenshots  
 
 ### Website Blocking Interface  
-<img src="./icons/readme/app.png" width="600" alt="jBlocker interface showing website input and list of blocked sites">  
+<img src="./icons/readme/app.png" width="40%" alt="jBlocker interface showing website input and list of blocked sites">  
 
 ### Time Schedule Configuration  
-<img src="./icons/readme/time.png" width="600" alt="jBlocker time picker interface with start/end time settings">  
+<img src="./icons/readme/time.png" width="40%" alt="jBlocker time picker interface with start/end time settings">  
 
 ---
 
@@ -51,7 +51,7 @@
    ```bash
    git clone https://github.com/justvicthor/jBlocker.git
 2. **Enable Developer Mode in Chrome**
-    - Visit ```chrome://extensions/
+    - Visit `chrome://extensions/`
     - Toggle **Developer mode** (top-right corner)
 3. **Load the Extension**
     - Click Load unpacked
