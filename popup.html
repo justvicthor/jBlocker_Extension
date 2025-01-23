@@ -1,0 +1,53 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Site Blocker</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 10px;
+      }
+      .field {
+        margin: 8px 0;
+      }
+      label {
+        display: block;
+        font-weight: bold;
+      }
+      input[type="text"],
+      input[type="time"],
+      button {
+        width: 100%;
+        padding: 6px;
+        box-sizing: border-box;
+      }
+      #sites {
+        height: 60px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Block Sites</h2>
+
+    <div class="field">
+      <label for="sites">Sites to block (one domain per line):</label>
+      <textarea id="sites" placeholder="e.g. facebook.com, 
+youtube.com"></textarea>
+    </div>
+
+    <div class="field">
+      <label for="startTime">Block Start Time:</label>
+      <input type="time" id="startTime" />
+    </div>
+
+    <div class="field">
+      <label for="endTime">Block End Time:</label>
+      <input type="time" id="endTime" />
+    </div>
+
+    <button id="saveBtn">Save & Update</button>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
