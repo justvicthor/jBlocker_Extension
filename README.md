@@ -18,19 +18,12 @@
 
 ## 🖼️ Screenshots  
 
-<div style="display: flex; gap: 30px; justify-content: space-between; flex-wrap: wrap;">
+### Website Blocking Interface  
+<img src="./icons/readme/app.png" width="30%" alt="jBlocker interface showing website input and list of blocked sites">  
 
-  <div style="flex: 1; min-width: 300px;">
-    <h3>Website Blocking Interface</h3>
-    <img src="./icons/readme/app.png" width="30%" alt="jBlocker interface showing website input and list of blocked sites" style="min-width: 250px;">
-  </div>
+### Time Schedule Configuration  
+<img src="./icons/readme/time.png" width="30%" alt="jBlocker time picker interface with start/end time settings">  
 
-  <div style="flex: 1; min-width: 300px;">
-    <h3>Time Schedule Configuration</h3>
-    <img src="./icons/readme/time.png" width="30%" alt="jBlocker time picker interface with start/end time settings" style="min-width: 250px;">
-  </div>
-
-</div>
 ---
 
 ## 🎮 Usage  
